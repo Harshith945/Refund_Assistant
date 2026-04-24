@@ -89,7 +89,6 @@ The AI Refund Policy Assistant simplifies the process of understanding refund an
 It provides:
 - ⚡ Fast and accurate responses  
 - 🎯 Context-aware answers from policy data  
-- 🧠 Reliable decisions using custom rules  
-- 🏢 Company-specific filtering for better relevance  
+- 🧠 Reliable decisions using custom rules 
 
 This project demonstrates how AI can be enhanced with business logic to build practical, real-world customer support solutions.
