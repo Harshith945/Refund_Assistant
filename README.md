@@ -41,6 +41,7 @@ LangChain – for managing LLM and retrieval pipeline
 Chroma – to store and search policy documents
 Groq (LLaMA 3.1 model) – for fast AI responses
 Python – core backend logic”
+
 ⚙️ 5. System Architecture
 
 “My system works in the following steps:
@@ -55,6 +56,7 @@ If needed, LLM generates final response
 This combination improves both accuracy and reliability.”
 
 🧠 6. Key Features
+
 AI-based context-aware responses (RAG)
 Rule engine for different product categories
 Company filtering for specific answers
@@ -67,6 +69,7 @@ Food
 Books
 Sportswear
 General items
+
 🔍 7. Rule Engine (Important Highlight)
 
 “One of the key parts is the rule engine.
