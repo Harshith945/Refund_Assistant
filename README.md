@@ -80,6 +80,11 @@ Custom rules handle real-world scenarios:
   
 ---
 
+## 10. Architecture Explanation
+
+The workflow is:
+User Query → Intent Detection → Vector Search → Rule Engine → LLM Response → Output
+
 ---
 
 ## 🎉 Conclusion
