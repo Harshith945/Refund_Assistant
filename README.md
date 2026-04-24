@@ -71,52 +71,9 @@ Custom rules handle real-world scenarios:
 
 ---
 
-## 🏢 Company Filtering
-
-- Users can select a company  
-- Prevents irrelevant responses  
-- Shows category if query mismatches  
-
----
-
-## 💻 UI Features
-
-- Chat input with Enter-to-send  
-- Sidebar with company selection  
-- Chat history display  
-- Clear chat option  
-
----
-
-## 🌐 Deployment
-
-Deployed on Hugging Face Spaces
-
----
-
-## ⚠️ Challenges
-
-- Handling incorrect AI responses  
-- Managing vector DB errors  
-- Filtering irrelevant queries  
-
----
-
 ## 🔮 Future Improvements
 
 - Add more categories  
 - Improve accuracy  
 - Add multilingual support  
-- Convert to API  
-
----
-
-## 📸 Demo
-
-_Add screenshots here_
-
----
-
-## 🧑‍💻 Author
-
-Your Name
+- Convert to API
