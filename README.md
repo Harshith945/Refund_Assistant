@@ -77,3 +77,19 @@ Custom rules handle real-world scenarios:
 - Improve accuracy  
 - Add multilingual support  
 - Convert to API
+  
+---
+
+---
+
+## 🎉 Conclusion
+
+The AI Refund Policy Assistant simplifies the process of understanding refund and return policies by combining Retrieval-Augmented Generation (RAG) with a rule-based system.
+
+It provides:
+- ⚡ Fast and accurate responses  
+- 🎯 Context-aware answers from policy data  
+- 🧠 Reliable decisions using custom rules  
+- 🏢 Company-specific filtering for better relevance  
+
+This project demonstrates how AI can be enhanced with business logic to build practical, real-world customer support solutions.
