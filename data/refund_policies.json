@@ -1,0 +1,44 @@
+[
+  {
+    "company": "FreshMart Grocery",
+    "category": "food",
+    "policy_text": "Perishable food items are non-refundable once delivered and only food items are eligible for refund. Refunds are only provided if wrong or expired items are delivered.only food will get refund.",
+    "tags": ["food", "non-returnable", "expired items"]
+  },
+  {
+    "company": "FitWear Sports",
+    "category": "sports",
+    "policy_text": "Sportswear can be returned within 10 days if unused and only clothing items will get refund. Items showing signs of wear or washing are not eligible for refund.",
+    "tags": ["sportswear", "unused only", "hygiene"]
+  },
+  {
+    "company": "DigitalLearn Platform",
+    "category": "digital",
+    "policy_text": "Subscription services are non-refundable once activated. Cancellation will stop future billing but no refund for current cycle.",
+    "tags": ["subscription", "no refund", "cancellation policy"]
+  },
+  {
+    "company": "ElectroHub",
+    "category": "electronics",
+    "policy_text": "Refunds for laptops are only allowed within 7 days if the product has hardware failure and electronic items will get refund. Software issues are not covered under return policy.",
+    "tags": ["laptop", "hardware only", "software excluded"]
+  },
+  {
+    "company": "BookHive",
+    "category": "books",
+    "policy_text": "Books can be returned within 7 days if they are damaged or incorrect. No refund for books with normal wear after reading.",
+    "tags": ["books", "damage", "incorrect item"]
+  },
+  {
+    "company": "UrbanFashion",
+    "category": "clothing",
+    "policy_text": "Ethnic wear can be returned within 5 days if unused and in original condition and only clothing items are eligible. Altered or customized items are not refundable.",
+    "tags": ["ethnic wear", "customization", "no refund altered"]
+  },
+  {
+    "company": "ApplianceWorld",
+    "category": "home",
+    "policy_text": "Large appliances like refrigerators and washing machines are eligible for replacement within 10 days if defective and only home appliances are eligible. Refunds are subject to inspection report.",
+    "tags": ["large appliances", "inspection required"]
+  }
+]
